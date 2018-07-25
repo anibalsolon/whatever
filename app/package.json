@@ -6,7 +6,7 @@
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/CellarD0-0r/whatever",
+  "repository": "https://github.com/anibalsolon/whatever",
   "keywords": [
     "Electron",
     "evernote",
@@ -15,7 +15,6 @@
     "note",
     "notes"
   ],
-  "author": "CellarD0-0r <alan.turing39@gmail.com>",
   "license": "MIT",
   "devDependencies": {}
 }
